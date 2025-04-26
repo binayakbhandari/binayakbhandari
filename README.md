@@ -8,7 +8,8 @@
 - 🌱 I’m currently learning **Advanced React**, **Node.js**, and **System Design**.
 - 👯 I’m looking to collaborate on **open source** and **real-world projects**.
 - 💬 Ask me about **React, Node.js, MongoDB, Express, and JavaScript**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/binayak-bhandari/) | [Email](mailto:binayakbhandari60@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/binayak-bhandari/) | [Email Me](https://mail.google.com/mail/?view=cm&fs=1&to=binayakbhandari60@gmail.com)
+
 - 😄 Fun Fact: I love building things that live on the internet and learning new tech every day!
 
 ---
