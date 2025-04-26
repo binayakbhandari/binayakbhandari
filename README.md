@@ -43,10 +43,6 @@
 
 ---
 
-🏆 Achievements:
-
----
-
 ## 🌟 Special Mention:
 
 > 🙌 **Gratitude to my Role Model — *[Manish Sir](https://github.com/maheshbasnet089)***  
