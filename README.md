@@ -44,18 +44,8 @@
 
 ---
 
-## 🧠 Fun Quote:
-> "The best way to predict the future is to create it." – Abraham Lincoln
-
----
-
-### 🙏 Thank you for visiting my profile!  
-*Let’s build and grow together — one line of code at a time! 💻✨*
-
----
-
 ## 🌟 Special Mention:
 
-> 🙌 **Gratitude to my Role Model — *Manish Sir***  
+> 🙌 **Gratitude to my Role Model — *[Manish Sir](htpps://github.com/maheshbasnet089)***  
 > Your guidance, support, and teachings have truly shaped my journey.  
 > Thank you for being my biggest inspiration. 💙
