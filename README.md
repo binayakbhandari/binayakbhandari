@@ -1,15 +1,20 @@
 # Hi there, I'm Binayak Bhandari 👋
 
-### 🚀 MERN Stack Developer | 🌱 Lifelong Learner | 🎯 Future Full-Stack Developer
+### 🚀 MERN Stack Developer | 👨‍🏫 Computer Science Teacher | 🌱 Lifelong Learner | 🎯 Future Full-Stack Developer
+
+![Profile Views](https://komarev.com/ghpvc/?username=binayakbhandari&color=blue)  
+![GitHub followers](https://img.shields.io/github/followers/binayakbhandari?label=Follow&style=social)  
+![GitHub stars](https://img.shields.io/github/stars/binayakbhandari?style=social)
 
 ---
 
-- 🔭 I’m currently working on exciting MERN projects.
-- 🌱 I’m currently learning **Advanced React**, **Node.js**, and **System Design**.
-- 👯 I’m looking to collaborate on **open source** and **real-world projects**.
-- 💬 Ask me about **React, Node.js, MongoDB, Express, and JavaScript**.
+- 🔭 I’m currently working on exciting **MERN projects**.
+- ✅ I’ve completed **CRUD operations** in both **Node.js** and **React.js**.
+- 👨‍🏫 I’m also a **Computer Science Teacher** — passionate about sharing what I learn.
+- 🌱 Currently exploring **Advanced React**, **Node.js**, and **System Design**.
+- 👯 Looking to collaborate on **open source** and **real-world fullstack projects**.
+- 💬 Ask me about **React, Node.js, MongoDB, Express, JavaScript** and teaching tech!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/binayak-bhandari/) | [Email Me](https://mail.google.com/mail/?view=cm&fs=1&to=binayakbhandari60@gmail.com)
-
 - 😄 Fun Fact: I love building things that live on the internet and learning new tech every day!
 
 ---
@@ -38,9 +43,10 @@
 ---
 
 ## 🚀 Latest Projects:
-- **MERN E-commerce Website** (in progress)
-- **Chat Application with Socket.IO**
-- **Personal Portfolio Website (React)**
+- ✅ **CRUD App** with Node.js + MongoDB (Backend)
+- ✅ **React CRUD Interface** (Frontend)
+- 🛒 **MERN E-commerce Website** *(in progress)*
+- 🌐 **Personal Portfolio Website (React)**
 
 ---
 
@@ -49,5 +55,5 @@
 
 ---
 
-### Thank you for visiting my profile! 🙏✨  
-*Let's connect and grow together!*
+### 🙏 Thank you for visiting my profile!  
+*Let’s build and grow together — one line of code at a time! 💻✨*
