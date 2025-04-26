@@ -1,6 +1,6 @@
 # Hi there, I'm Binayak Bhandari 👋
 
-### 🚀 MERN Stack Developer | 👨‍🏫 Computer Science Teacher | 🌱 Lifelong Learner | 🎯 Future Full-Stack Developer
+### 🚀 MERN Stack Developer | 👨‍🏫 Computer Science Teacher | 🌱 Lifelong Learner 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=binayakbhandari&color=blue)  
 ![GitHub followers](https://img.shields.io/github/followers/binayakbhandari?label=Follow&style=social)  
