@@ -6,7 +6,6 @@
 
 ---
 
-- 🔭 I’m currently working on exciting **MERN projects**.
 - 👯 Looking to collaborate on **open source** and **real-world fullstack projects**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/binayak-bhandari/) | [Email Me](https://mail.google.com/mail/?view=cm&fs=1&to=binayakbhandari60@gmail.com)
 
