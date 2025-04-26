@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Advanced React**, **Node.js**, and **System Design**.
 - 👯 I’m looking to collaborate on **open source** and **real-world projects**.
 - 💬 Ask me about **React, Node.js, MongoDB, Express, and JavaScript**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-linkedin-username/) | [Email](mailto:your-email@example.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/binayak-bhandari/) | [Email](mailto:binayakbhandari60@gmail.com)
 - 😄 Fun Fact: I love building things that live on the internet and learning new tech every day!
 
 ---
@@ -30,9 +30,9 @@
 
 ## 📊 GitHub Stats:
 
-![Binayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![Binayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=binayakbhandari&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binayakbhandari&layout=compact&theme=tokyonight)
 
 ---
 
