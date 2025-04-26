@@ -55,3 +55,11 @@
 
 ### 🙏 Thank you for visiting my profile!  
 *Let’s build and grow together — one line of code at a time! 💻✨*
+
+---
+
+## 🌟 Special Mention:
+
+> 🙌 **Gratitude to my Role Model — *Manish Sir***  
+> Your guidance, support, and teachings have truly shaped my journey.  
+> Thank you for being my biggest inspiration. 💙
