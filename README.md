@@ -1,4 +1,4 @@
-# Hi there, I'm Binayak Bhandari 👋
+# Hi there, I'm [Binayak Bhandari](https://binayakbhandari.com.np) 👋
 
 ### 🚀 MERN Stack Developer | 👨‍🏫 Computer Science Teacher | 🌱 Lifelong Learner 
 
