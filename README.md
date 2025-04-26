@@ -8,12 +8,8 @@
 
 - 🔭 I’m currently working on exciting **MERN projects**.
 - ✅ I’ve completed **CRUD operations** in both **Node.js** and **React.js**.
-- 👨‍🏫 I’m also a **Computer Science Teacher** — passionate about sharing what I learn.
-- 🌱 Currently exploring **React** and **Node.js**.
 - 👯 Looking to collaborate on **open source** and **real-world fullstack projects**.
-- 💬 Ask me about **React, Node.js, MongoDB, Express, JavaScript** and teaching tech!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/binayak-bhandari/) | [Email Me](https://mail.google.com/mail/?view=cm&fs=1&to=binayakbhandari60@gmail.com)
-- 😄 Fun Fact: I love building things that live on the internet and learning new tech every day!
 
 ---
 
