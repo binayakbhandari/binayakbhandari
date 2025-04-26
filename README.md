@@ -46,6 +46,6 @@
 
 ## 🌟 Special Mention:
 
-> 🙌 **Gratitude to my Role Model — *[Manish Sir](htpps://github.com/maheshbasnet089)***  
+> 🙌 **Gratitude to my Role Model — *[Manish Sir](https://github.com/maheshbasnet089)***  
 > Your guidance, support, and teachings have truly shaped my journey.  
 > Thank you for being my biggest inspiration. 💙
