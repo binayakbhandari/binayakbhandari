@@ -2,10 +2,10 @@
 
 ### 🚀 MERN Stack Developer | 👨‍🏫 Computer Science Teacher | 🌱 Lifelong Learner 
 
----
-
 - 👯 Looking to collaborate on **open source** and **real-world fullstack projects**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/binayak-bhandari/) | [Email Me](https://mail.google.com/mail/?view=cm&fs=1&to=binayakbhandari60@gmail.com)
+
+---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=binayakbhandari&color=blue)  ![GitHub followers](https://img.shields.io/github/followers/binayakbhandari?label=Follow&style=social)  ![GitHub stars](https://img.shields.io/github/stars/binayakbhandari?style=social)
 
